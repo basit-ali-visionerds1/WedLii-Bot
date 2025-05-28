@@ -1,0 +1,37 @@
+{
+  "user1": {
+    "celebrant": "Basit Ali",
+    "venue": "Rose Garden",
+    "date": "25-November-2026",
+    "guest_count": 100,
+    "budget": 20000
+  },
+  "user2": {
+    "celebrant": "Shahmeer",
+    "venue": "Beachside Resort",
+    "date": "29-July-2026",
+    "guest_count": 200,
+    "budget": 30000
+  },
+  "user3": {
+    "celebrant": "Catherine Lee",
+    "venue": "City Hall",
+    "date": "31-May-2025",
+    "guest_count": 50,
+    "budget": 8000
+  },
+  "user4": {
+    "celebrant": "David Kim",
+    "venue": "Mountain Lodge",
+    "date": "12-October-2025",
+    "guest_count": 150,
+    "budget": 22000
+  },
+  "user5": {
+    "celebrant": "Eva Martinez",
+    "venue": "Sunset Pavilion",
+    "date": "15-November-2025",
+    "guest_count": 2000,
+    "budget": 27000
+  }
+}
